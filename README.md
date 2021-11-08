@@ -1,10 +1,8 @@
 # Baskerville
 
-[John baskerville.txt](https://github.com/emckay03/My-Filing-Cabinet/files/7498001/John.baskerville.txt)
-
 <body> 
 <head>
-<h1>BaskervilleJohn Baskerville</h1>
+<h1>John Baskerville</h1>
 <h3>Founder & Master Printer</h3>
 <p>John Baskerville (1706-1775) was an English businessman whose entrepreneurial attentions included japanning and papier-mâché; he is, however, best remembered as a typographer and printer, not least for the design of the eponymous typeface which, to this very day, bears his name.</p>
 </head>
