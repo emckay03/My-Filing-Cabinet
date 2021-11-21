@@ -70,8 +70,9 @@ header h2{
 
 }
 
-header, p{
+section, header, p{
     font-size: 1.3rem;
+    margin-left: 2em;
 }
 
 /*-- styling links--*/
