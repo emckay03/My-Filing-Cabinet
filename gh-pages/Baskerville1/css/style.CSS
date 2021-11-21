@@ -70,10 +70,7 @@ header h2{
 
 }
 
-section, header, p{
-    font-size: 1.3rem;
-    margin-right: auto;
-}
+
 
 /*-- styling links--*/
 a{
