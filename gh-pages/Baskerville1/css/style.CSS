@@ -30,7 +30,8 @@ p, blockquote {
 }
 
 p, header{
-    margin: 10em;
+    margin-top: 0.5em;
+    margin: 2em;
 }
 
 h1{
