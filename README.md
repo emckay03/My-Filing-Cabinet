@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Bruno Schultz-version1
+# Bruno-Schultz
 
 [BrunoSchultz](https://emckay03.github.io/My-Filing-Cabinet/bruno-schultz.html) 
 
