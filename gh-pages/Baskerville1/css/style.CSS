@@ -29,6 +29,10 @@ p, blockquote {
     line-height: 1.4em;
 }
 
+p, header{
+    margin: 2em;
+}
+
 h1{
     font-size: 5.653rem;
     margin: 2em;
