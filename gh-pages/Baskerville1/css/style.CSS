@@ -72,7 +72,7 @@ header h2{
 
 section, header, p{
     font-size: 1.3rem;
-    margin-left: 2em;
+    margin-right: auto;
 }
 
 /*-- styling links--*/
