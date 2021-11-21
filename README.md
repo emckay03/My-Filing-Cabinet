@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Bruno Schultz
 
-[BrunoSchultz](https://emckay03.github.io/My-Filing-Cabinet/BrunoSchultz.html) 
+[BrunoSchultz](https://emckay03.github.io/My-Filing-Cabinet/BrunoSchultz-version1.html) 
 
 # Baskerville1
 
