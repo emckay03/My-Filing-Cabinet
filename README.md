@@ -1,7 +1,7 @@
 
 # Bruno-Schultz
 
-[Bruno-Schultz](https://emckay03.github.io/My-Filing-Cabinet/gh-pages/schultz/bruno-schultz.html) 
+[Bruno-Schultz](https://emckay03.github.io/My-Filing-Cabinet/bruno-schultz.html) 
 
 # Baskerville1
 
