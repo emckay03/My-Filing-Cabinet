@@ -27,6 +27,10 @@ section{
 .dark{
     background:#d100c7
 }
+.light{
+    background: #ffe94c;
+    padding: 3rem;
+}
 
 /*-- styling Typography--*/
 h1, h2, blockquote, header {
