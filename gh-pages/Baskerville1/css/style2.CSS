@@ -29,18 +29,29 @@ section{
 }
 
 /*-- styling Typography--*/
-h1, h2, blockquote {
+h1, h2, blockquote, header {
     color: #760071;
+    padding: 2rem 0;
 }
 
-p, blockquote {
+header, h2{
+    font-style: italic;
+    font-size: 2.827rem;
+    color: #ffeafe;
+    margin-top: -4rem;
+    margin-bottom:-2rem;
+    text-indent: 1.5rem;
+}
+blockquote, p {
     margin-bottom: 1.5rem;
     line-height: 1.4em;
 }
 
-p, header{
+header, p{
     margin-top: 0.5em;
     margin: 2em;
+    padding-bottom: 4rem;
+    font-size: 1.3rem;
 }
 
 h1{
