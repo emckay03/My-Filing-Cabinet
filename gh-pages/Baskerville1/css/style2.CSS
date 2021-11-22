@@ -66,6 +66,7 @@ h1{
     font-size: 5.653rem;
     margin-top: 5rem;
     font-family: baskerville-urw,serif;
+    margin-left: 2rem;
 }
 
 h1, h2{
@@ -79,8 +80,7 @@ h2{
 h3{
     font-size: 3.440rem;
     margin-top: 2rem;
-    margin: 2em;
-    margin-left: 0rem;
+    margin-left: 1rem;
 }
 
 blockquote{
@@ -110,7 +110,8 @@ p{
 
 }
 header p{
-    margin: auto;
+    
+    margin-left: 1rem;
 }
 
 
