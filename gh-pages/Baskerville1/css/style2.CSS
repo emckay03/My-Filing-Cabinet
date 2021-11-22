@@ -108,7 +108,9 @@ p{
     line-height: 1.4;
 
 }
-
+header p{
+    margin: auto;
+}
 
 
 /*-- styling links--*/
