@@ -1,11 +1,11 @@
 
 # Bruno-Schultz
 
-[Bruno-Schultz](https://emckay03.github.io/My-Filing-Cabinet/bruno-schultz.html) 
+[Bruno-Schultz](https://emckay03.github.io/My-Filing-Cabinet/schultz/bruno-schultz.html) 
 
 # Baskerville1
 
-[Baskerville1](https://emckay03.github.io/My-Filing-Cabinet/baskerville1.html)
+[Baskerville1](https://emckay03.github.io/My-Filing-Cabinet/Baskerville1/baskerville1.html)
 
 # Baskerville2
 
