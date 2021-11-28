@@ -83,6 +83,10 @@ a:hover {
     border-bottom: 1px dotted;
 }
 
+.dark {
+    color: #ff7626;
+}
+
 /*-- Styling nav --*/
 
 nav {
