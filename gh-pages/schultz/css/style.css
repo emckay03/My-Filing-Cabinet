@@ -51,7 +51,8 @@ blockquote {
     font-size: 1.414rem;
     font-style: italic;
     hanging-punctuation: first;
-    text-indent: -0.75rem
+    text-indent: -0.75rem;
+    background-color: #ED7002;
     
 }
 
