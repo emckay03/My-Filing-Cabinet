@@ -26,7 +26,7 @@ h1, h2,h3 {
     color:#bd4500
 }
 
-blockquote {
+section, blockquote {
     margin-bottom: 2rem;
     line-height: 1.4;
     margin-top: 2em;
@@ -53,6 +53,9 @@ blockquote {
     hanging-punctuation: first;
     text-indent: -0.75rem;
     background-color: #ED7002;
+    width: 80%;
+    max-width: 700px;
+    margin: auto;
     
 }
 
@@ -139,3 +142,4 @@ footer {
 p {
     margin-top: 1rem;
 }
+
