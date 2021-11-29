@@ -107,7 +107,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background: #5a2100;
+    background: #8f3500;
     padding: 2em 0;
     font-size: 0.75rem;
 }
@@ -144,7 +144,8 @@ hr {
 footer {
     text-align: center;
     font-size: 0.75rem;
-    margin: 6em 0 3em 0
+    margin: 6em 0 3em 0;
+    background: #f04400;
 }
 
 p {
