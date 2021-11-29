@@ -19,15 +19,12 @@ article{
     background: #f7f7f7;
     padding: 10px;
     height: 400px;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-    grid-gap: 10px;
 }
 
 .gridimage{
-    display:grid;
+    display: grid;
     grid-gap: 10px;
-    grid-template-columns: repeat (autofill, minmax(340px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
 }
 section, header, footer {
     width: 80%;
