@@ -29,8 +29,12 @@ head, p{
 
 /*-- Styling typography --*/
 
-h1, h2,h3 {
+h1,h3 {
     color:#e97430
+}
+
+h2 {
+    color: #521e00;
 }
 
 section, blockquote {
@@ -106,16 +110,13 @@ a:hover {
     background: #9b3a02;
 }
 
-.light {
-    background: #da5b2a;
-}
 
 .mornings {
     background: #ff9e20;
 }
 
 .street {
-    background:#ff9e20
+    background: #da5b2a
 }
 /*-- Styling nav --*/
 
