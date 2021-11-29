@@ -91,8 +91,12 @@ a:hover {
     border-bottom: 1px dotted;
 }
 
-div .dark {
+.dark {
     background: #ED7002;
+}
+
+.light {
+    background: #f04400;
 }
 
 /*-- Styling nav --*/
