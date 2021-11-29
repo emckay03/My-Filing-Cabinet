@@ -14,7 +14,7 @@ body {
     color: #333333
 }
 
-section, header {
+section, head {
     width: 80%;
     max-width: 700px;
     margin: auto;
@@ -23,11 +23,14 @@ section, blockquote {
 width: 80%;
 max-width: 700px;
 }
+head, p{
+    color: #e97430;
+}
 
 /*-- Styling typography --*/
 
 h1, h2,h3 {
-    color:#bd4500
+    color:#e97430
 }
 
 section, blockquote {
@@ -38,7 +41,7 @@ section, blockquote {
 
 h1 {
     font-size: 5.653rem;
-    margin-top: 2em;
+    margin-top: -3em;
 }
 
 h2 {
@@ -50,6 +53,7 @@ h3{
     font-size: 3.440rem;
     margin-top: 0.5em;
 }
+
 
 blockquote {
     font-size: 1.414rem;
@@ -92,13 +96,16 @@ a:hover {
 }
 
 .dark {
-    background: #ED7002;
+    background: #9b3a02;
 }
 
 .light {
     background: #f04400;
 }
 
+.morning {
+    background: #e99930;
+}
 /*-- Styling nav --*/
 
 nav {
@@ -107,7 +114,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background: #8f3500;
+    background: #9b3a02;
     padding: 2em 0;
     font-size: 0.75rem;
 }
@@ -146,7 +153,7 @@ footer {
     font-size: 0.75rem;
     margin: 6em 0 3em 0;
     background: #f04400;
-    background-color: #f04400;
+    background-color: #7a2300;
 }
 
 p {
