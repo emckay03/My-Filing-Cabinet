@@ -42,7 +42,8 @@ h1{
     width: 414px;
     height: 129px;
     margin-left: auto;
-    margin-top: 5em;
+    margin-top: 10em;
+    margin-bottom: 1em;
     font-family: gill-sans-nova-extra-condens, sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -74,7 +75,8 @@ h1, h2, blockquote, header {
 }
 
 .yellow{
-    color: rgb(255, 196, 0);
+    background-color: #ffbb00;
+
 }
 
 p{
@@ -82,4 +84,51 @@ p{
     padding: 1em 0 ;
     line-height: 1.4;
     margin-left: 2em;
+}
+
+h1{
+    margin-left: 2rem;
+}
+hr{
+    margin: 100px 0;
+    height: 1px;
+    background-color: #4f014c;
+    color: #4f014c;
+    border: 0 none;
+}
+
+/*-- styling nav--*/
+nav{ 
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background: #ffbb00;
+    padding: 2em 0;
+    font-size: 1rem;
+    font-family: gill-sans-nova-extra-condens, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+nav ul{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+nav ul li{
+    display: inline;
+    margin: 20px;
+}
+
+nav a{
+    color: #ff0000;
+}
+
+nav a:hover{
+    border-bottom: none;
+    color: #000000;
+    transition: all 0.3s ease-in-out;
 }
