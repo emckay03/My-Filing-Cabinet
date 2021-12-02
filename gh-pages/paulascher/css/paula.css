@@ -43,7 +43,9 @@ h1{
     height: 129px;
     margin-left: auto;
     margin-top: 5em;
-    font-family: 'Ranchers', cursive;
+    font-family: gill-sans-nova-extra-condens, sans-serif;
+    font-weight: 700;
+    font-style: normal;
     margin: auto;
     color:black;
     text-shadow: -20px 0px 0px #ff0000;
@@ -51,15 +53,20 @@ h1{
 }
 
 h2{
-    font-family: 'Ranchers', cursive;
+    font-family: gill-sans-nova-extra-condens, sans-serif;
+    font-weight: 700;
+    font-style: normal;
     font-size: 2rem;
     color: black;
 
 }
 
 h3{
-    font-family: 'Ranchers', cursive;
+    font-family: gill-sans-nova-extra-condens, sans-serif;
+    font-weight: 700;
+    font-style: normal;
     font-size: 1.7rem;
+    color: black;
 }
 /*-- styling Typography--*/
 h1, h2, blockquote, header {
@@ -71,5 +78,8 @@ h1, h2, blockquote, header {
 }
 
 p{
-    margin-left: 1em;
+    color:#333;
+    padding: 1em 0 ;
+    line-height: 1.4;
+    margin-left: 2em;
 }
