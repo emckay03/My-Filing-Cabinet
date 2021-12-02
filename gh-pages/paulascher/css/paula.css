@@ -58,6 +58,9 @@ h2{
 }
 /*-- styling Typography--*/
 h1, h2, blockquote, header {
-    padding: 1rem 0;
-    
+    padding: 1rem 0;   
+}
+
+.yellow{
+    color: rgb(255, 196, 0);
 }
