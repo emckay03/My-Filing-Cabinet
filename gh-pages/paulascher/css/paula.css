@@ -37,7 +37,14 @@ section{
 }
 
 h1{
+    margin: auto;
     color:black;
     text-shadow: -20px 0px 0px #ff0000;
     font-size: 5.8rem;
+}
+/*-- styling Typography--*/
+h1, h2, blockquote, header {
+    color: #760071;
+    padding: 1rem 0;
+    
 }
