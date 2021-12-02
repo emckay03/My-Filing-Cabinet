@@ -35,3 +35,9 @@ section, header, footer {
 section{
     margin-bottom: 4rem;
 }
+
+h1{
+    color:black;
+    text-shadow: -20px 0px 0px #ff0000;
+    font-size: 5.8rem;
+}
