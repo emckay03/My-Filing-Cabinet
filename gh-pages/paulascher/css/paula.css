@@ -37,19 +37,27 @@ section{
 }
 
 h1{
+    padding: 1rem;
     position: absolute;
     width: 414px;
     height: 129px;
     margin-left: 2em;
     margin-top: 5em;
+    font-family: 'Ranchers', cursive;
     margin: auto;
     color:black;
     text-shadow: -20px 0px 0px #ff0000;
     font-size: 5.8rem;
 }
+
+h2{
+    font-family: 'Ranchers', cursive;
+    font-size: 2rem;
+    color: black;
+
+}
 /*-- styling Typography--*/
 h1, h2, blockquote, header {
-    color: #760071;
     padding: 1rem 0;
     
 }
