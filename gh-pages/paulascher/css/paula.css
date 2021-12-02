@@ -33,7 +33,7 @@ section, header, footer {
 }
 
 section{
-    margin-bottom: 4rem;
+    margin-bottom: 2rem;
 }
 
 h1{
@@ -41,7 +41,7 @@ h1{
     position: absolute;
     width: 414px;
     height: 129px;
-    margin-left: 10em;
+    margin-left: 20em;
     
     margin-bottom: 1em;
     font-family: gill-sans-nova-extra-condens, sans-serif;
@@ -91,6 +91,10 @@ blockquote{
 .white{
     background-color: #f7f7f7;
 }
+.black{
+    background-color: black;
+    color: rgb(107, 107, 107);
+}
 
 p{
     color:#333;
@@ -100,7 +104,7 @@ p{
 }
 
 h1{
-    margin-top: -45rem;
+    margin-top: -43rem;
     margin-left: 2rem;
 }
 
