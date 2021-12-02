@@ -37,6 +37,11 @@ section{
 }
 
 h1{
+    position: absolute;
+    width: 414px;
+    height: 129px;
+    margin-left: 2em;
+    margin-top: 5em;
     margin: auto;
     color:black;
     text-shadow: -20px 0px 0px #ff0000;
