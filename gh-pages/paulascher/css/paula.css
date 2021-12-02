@@ -41,16 +41,16 @@ h1{
     position: absolute;
     width: 414px;
     height: 129px;
-    margin-left: auto;
-    margin-top: 10em;
+    margin-left: 10em;
+    margin-top: 5em;
     margin-bottom: 1em;
     font-family: gill-sans-nova-extra-condens, sans-serif;
     font-weight: 700;
     font-style: normal;
     margin: auto;
     color:black;
-    text-shadow: -20px 0px 0px #ff0000;
-    font-size: 5.8rem;
+    text-shadow: -12px 0px 0px #ff0000;
+    font-size: 7rem;
 }
 
 h2{
@@ -68,6 +68,8 @@ h3{
     font-style: normal;
     font-size: 1.7rem;
     color: black;
+    margin-top: 10em;
+    margin-right: 2em;
 }
 /*-- styling Typography--*/
 h1, h2, blockquote, header {
@@ -89,12 +91,10 @@ p{
 h1{
     margin-left: 2rem;
 }
-hr{
-    margin: 100px 0;
-    height: 1px;
-    background-color: #4f014c;
-    color: #4f014c;
-    border: 0 none;
+
+section, header{
+    margin-top: 2em;
+    
 }
 
 /*-- styling nav--*/
@@ -102,11 +102,11 @@ nav{
     position: fixed;
     top: 0;
     left: 0;
-    margin: 0;
+    margin-top: 0em;
     width: 100%;
     background: #ffbb00;
     padding: 2em 0;
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-family: gill-sans-nova-extra-condens, sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -132,3 +132,13 @@ nav a:hover{
     color: #000000;
     transition: all 0.3s ease-in-out;
 }
+
+footer{
+    text-align: center;
+    font-size: 0.75rem;
+    margin: 6em 0 3em 0;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 2em;
+}
+
