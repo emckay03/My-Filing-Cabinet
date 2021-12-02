@@ -41,7 +41,7 @@ h1{
     position: absolute;
     width: 414px;
     height: 129px;
-    margin-left: 2em;
+    margin-left: auto;
     margin-top: 5em;
     font-family: 'Ranchers', cursive;
     margin: auto;
@@ -56,6 +56,11 @@ h2{
     color: black;
 
 }
+
+h3{
+    font-family: 'Ranchers', cursive;
+    font-size: 1.7rem;
+}
 /*-- styling Typography--*/
 h1, h2, blockquote, header {
     padding: 1rem 0;   
@@ -63,4 +68,8 @@ h1, h2, blockquote, header {
 
 .yellow{
     color: rgb(255, 196, 0);
+}
+
+p{
+    margin-left: 1em;
 }
