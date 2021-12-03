@@ -64,23 +64,15 @@ h2{
 }
 
 h3{
-    position: absolute;
-    font-family: gill-sans-nova-extra-condens, sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 4rem;
-    line-height: 1em;
-    text-shadow: -12px 0px 0px #ff0000;
-    color: black;
-    margin-top: 10em;
-    margin-right: 2em;
+  color: #f7f7f7;
+  font-size: 2rem;
 }
 
 
 
 
 /*-- styling Typography--*/
-h1, h2, blockquote, header {
+h1, h2,h3, blockquote, header {
     padding: 1rem 0;   
 }
 
@@ -154,7 +146,7 @@ nav a{
 
 nav a:hover{
     border-bottom: none;
-    color: #000000;
+    color: #ffbb00;
     transition: all 0.3s ease-in-out;
 }
 
