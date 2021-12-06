@@ -23,7 +23,7 @@ article{
 .gridimage{
     display: grid;
     grid-gap: 10px;
-    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(345px, 1fr));
 }
 section, header, footer {
     width: 80%;
