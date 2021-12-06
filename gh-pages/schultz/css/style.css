@@ -97,7 +97,7 @@ header, p {
 
 /*-- Styling links --*/
 a {
-    color: #e43500;
+    color: #ffbb00;
      text-decoration: none;
 }
 
@@ -148,7 +148,7 @@ nav a {
 
 nav a:hover {
     border-bottom: none;
-    color: #e43500;
+    color: #ffd000;
     transition: all 0.3s ease-in-out
 }
 
@@ -165,7 +165,7 @@ footer {
     font-size: 0.75rem;
     margin: 6em 0 3em 0;
     background: #f04400;
-    background-color: #7a2300;
+    background-color: #da4910;
 }
 
 p {
