@@ -34,6 +34,7 @@ section, header, footer {
 
 section{
     margin-bottom: 2rem;
+    margin:auto;
 }
 
 h1{
@@ -64,7 +65,7 @@ h2{
 }
 
 h3{
-  color: #f7f7f7;
+  color: #000000;
   font-size: 2rem;
 }
 
@@ -96,7 +97,9 @@ blockquote{
     background-color: black;
     color: rgb(107, 107, 107);
 }
-
+.lightyellow{
+    background-color: rgb(255, 216, 110);
+}
 p{
     color:#333;
     padding: 1em 0 ;
@@ -159,5 +162,11 @@ footer{
     margin: auto;
     margin-top: 1rem;
     margin-bottom: 2em;
+}
+
+.gridimage{
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
 }
 
