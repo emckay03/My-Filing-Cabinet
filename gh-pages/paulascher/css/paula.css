@@ -14,17 +14,7 @@ body {
 
 }
 
-img{
-    display: block;
-    padding: 0;
-    max-width: 100%;
-}
 
-.gridimage{
-    display: grid;
-    grid-gap: 10px;
-    grid-template-columns: repeat(auto-fill, minmax(345px, 1fr));
-}
 section, header, footer {
     width: 80%;
     max-width: 700px;
@@ -35,6 +25,19 @@ section, header, footer {
 section{
     margin-bottom: 2rem;
     margin:auto;
+}
+
+/*-- images--*/
+img{
+    display: block;
+    padding: 0;
+    max-width: 100%;
+}
+
+.gridimage{
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
 }
 
 h1{
@@ -68,8 +71,6 @@ h3{
   color: #000000;
   font-size: 2rem;
 }
-
-
 
 
 /*-- styling Typography--*/
@@ -127,7 +128,7 @@ nav{
     width: 100%;
     background: #ffbb00;
     padding: 2em 0;
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-family: gill-sans-nova-extra-condens, sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -150,9 +151,14 @@ nav a{
 
 nav a:hover{
     border-bottom: none;
-    color: #ffbb00;
+    color: #000000;
     transition: all 0.3s ease-in-out;
 }
+
+.bibliography {
+    display: grid;
+    grid-template-columns: 400px 0fr 0fr;
+  }
 
 footer{
     text-align: center;
