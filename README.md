@@ -5,7 +5,7 @@
 
 # Baskerville1
 
-[Baskerville1](https://emckay03.github.io/My-Filing-Cabinet/gh-pages/Baskerville1/baskerville1.html)
+[Baskerville1](https://emckay03.github.io/My-Filing-Cabinet/baskerville1.html)
 
 # Baskerville2
 
