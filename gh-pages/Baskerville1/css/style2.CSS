@@ -23,12 +23,13 @@ article{
 
 .gridimage{
     display: grid;
-    grid-gap: 10px;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    grid-gap: 6px;
+    grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+  
 }
 section, header, footer {
     width: 80%;
-    max-width: 700px;
+    max-width: 1000px;
     margin: auto;
     padding: 0;
 }
@@ -86,6 +87,9 @@ h1, h2{
 h2{
     font-size: 1.999rem;
     margin:auto;
+    font-family: annabelle-jf,sans-serif;
+    font-weight: 400;
+    font-style: normal;
 
 }
 
@@ -117,7 +121,7 @@ header h2{
 }
 p{
     color:#333;
-    padding: 1em 0 ;
+    padding: 0.5em 0 ;
     line-height: 1.4;
 
 }
