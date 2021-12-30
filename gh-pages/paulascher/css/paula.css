@@ -21,7 +21,6 @@ section, header, footer {
 }
 
 section{
-    margin-bottom: 2rem;
     margin:auto;
 }
 
@@ -31,7 +30,10 @@ img{
     padding: 0;
     max-width: auto;
 }
-
+img [src="img/paula-1200.png"] {
+    max-width: 100%;
+    height: auto;
+  }
 .gridimage{
     display: grid;
     grid-gap: 10px;
@@ -56,8 +58,8 @@ h1{
 }
 
 h2{
-    font-family: gill-sans-nova-extra-condens, sans-serif;
-    font-weight: 700;
+    font-family: sneakers-pro,sans-serif;
+    font-weight: 500;
     font-style: normal;
     font-size: 2rem;
     color: black;
@@ -68,6 +70,7 @@ h2{
 h3{
   color: #000000;
   font-size: 2rem;
+  margin-bottom: 1em;
 }
 
 
@@ -125,7 +128,7 @@ nav{
     margin-top: 0em;
     width: 100%;
     background: #ffbb00;
-    padding: 2em 0;
+    padding: 1.3em 0;
     font-size: 1.005rem;
     font-family: filson-soft, sans-serif;
     font-weight: 700;
@@ -156,7 +159,8 @@ nav a:hover{
 
 .bibliography {
     display: grid;
-    grid-template-columns: 400px 0fr 0fr;
+    grid-template-columns: 600px 0fr 400fr;
+    grid-column-gap: 50px;
   }
 
 footer{
