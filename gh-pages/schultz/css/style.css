@@ -103,13 +103,22 @@ cite {
     font-style: normal;
 }
 
-header h3 {
+header {
     font-size: 2.827rem;
     font-style: italic;
     margin-top: 0;
     margin-bottom: 1.5em;
     margin-left: 2em;
-    
+}
+h4{
+    font-size: 3.440rem;
+    margin-top: 0.5em;
+    margin-left: 3em;
+    font-family: nelson-rugged,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:#e97430 ;
+
 }
 
 header, p {
@@ -139,7 +148,7 @@ a:hover {
 }
 
 .street {
-    background: #da5b2a
+    background: #da5b2a;
     
 }
 /*-- Styling nav --*/
@@ -198,5 +207,5 @@ footer, h3 {
 
 
 p {
-    margin-top: 1rem;
+    margin-top: 1em;
 }
