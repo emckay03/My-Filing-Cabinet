@@ -44,10 +44,14 @@ section, blockquote {
     margin-top: 0em;
     padding-top: 1em;
     padding-bottom: 0.5em;
-    font-family: old-man-eloquent,sans-serif;
-font-weight: 700;
-font-style: normal;
 }
+
+blockquote{
+    font-family: alana,sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
 section{
     margin-top: -2em;
     margin-bottom: 0em;
