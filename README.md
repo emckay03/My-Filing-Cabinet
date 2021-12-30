@@ -1,5 +1,9 @@
 
-# Bruno-Schultz
+# Bruno-Schultz1
+
+[Bruno-Schultz](https://emckay03.github.io/GitHub/BrunoSchultz.html)
+
+# Bruno-Schultz2
 
 [Bruno-Schultz](https://emckay03.github.io/My-Filing-Cabinet/gh-pages/schultz/bruno-schultz-4.html) 
 
