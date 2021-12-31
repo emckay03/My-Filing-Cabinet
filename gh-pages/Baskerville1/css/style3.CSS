@@ -142,7 +142,6 @@ header p{
     display: grid;
     grid-gap: 10px;
     margin-left: 0em;
-    box-align: center;
 }
 
 /*-- styling links--*/
